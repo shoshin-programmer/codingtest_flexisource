@@ -5,7 +5,7 @@ import Base from "../components/base";
 
 import { Form, Formik, Field } from "formik";
 import { string, object } from "yup";
-import useSWR from "SWR";
+import useSWR from "swr";
 
 // Utils
 const fetcher = async (url: string) => {
