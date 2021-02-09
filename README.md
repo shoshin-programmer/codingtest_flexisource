@@ -12,4 +12,6 @@ I will be adding more projects on my portfolio this week and updating my portfol
 
 > I don't memorize everything but I know where and how to figure it out.
 
+Just a note that I have created a PostgreSQL instance with heroku solely for this test and the credentials is available on the `.env` file. This is of course unsecure for production but knowing that this is for a test. It will be kept as is to immediately connect to my instance. I could have created the `environment variables` on production but that would require you to copy it if you were gonna use it on your local machine, thus my decision to place it inside the git version control.
+
 `Arvin Mark Atienza`
