@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Coding Test for Flexisource
 
-## Getting Started
+This is the [Trello Board](https://trello.com/b/ERrrItXy/coding-test-flexisource) for this small project. I use trello to manage time efficiently and divide a big task into smaller ones.
 
-First, run the development server:
+This is the [Deployed Version](https://codingtest-flexisource-abnwpq849.vercel.app) for the app which does not need any set up. This is done under the assumption that the one that will be checking the project is not a developer.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+However if you are a developer, `git cloning` this project and running `npm i` and `npm run dev` will allow you to access the project in your local machine since I have included the `.env` file. The localhost will be [`localhost:3000`](http://localhost:3000).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I added validations, limit the page to just one, and allos some animations to make it a little bit more user-friendly. The site is also mobile-responsive. I could have made it using Python but I have more experience with Python so it might not be as impressive. I have no professional experience with `Typescript` and `NextJs` which you can see through my resume and [Website](https://mark-atienza.com).
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+I will be adding more projects on my portfolio this week and updating my portfolio to a better UX design in the future.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+> I don't memorize everything but I know where and how to figure it out.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+`Arvin Mark Atienza`
